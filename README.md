@@ -15,7 +15,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ybsharan&theme=onedark&hide_border=false&include_all_commits=true&count_private=false) &nbsp; &nbsp; &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=ybsharan&theme=onedark&hide_border=false) <br/> <br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybsharan&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### <h4 align="center">![](https://github-readme-stats.vercel.app/api?username=ybsharan&theme=onedark&hide_border=false&include_all_commits=true&count_private=false) &nbsp; &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybsharan&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/> <br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=ybsharan&theme=onedark&hide_border=false)</h4>
 
 ---
 ### <h2 align="center">🔝 Top Contributed Repo</h2>
