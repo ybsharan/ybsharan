@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm Baidehi Sharan Yadav</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
 
-- 🌱 I’m currently learning **APIs Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 - 💬 Ask me about **Software Development**
 - 📫 Reach me at **bsharanyadav@gmail.com**
 
