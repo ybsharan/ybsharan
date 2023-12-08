@@ -1,13 +1,12 @@
-<h1 align="center">Namaste 🙏, I'm Baidehi Sharan Yadav</h1>
+<h1 align="center">Namaste 🙏, I'm Sharan Yaduvanshi</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Development, Technology, Startup, Engineering & Leadership**
 - 📫 Reach me at **bsharanyadav@gmail.com**
 
 
 ## 🌐 Connect With me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ybsharan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysharan79) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ysharan79) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ybsharan) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ybsharan)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysharan79) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ysharan79) 
 
 
 ## 💻 Tech Stack:
