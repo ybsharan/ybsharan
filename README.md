@@ -1,8 +1,8 @@
 <h1 align="center">Namaste 🙏, I'm Sharan Yaduvanshi</h1>
-<h3 align="center">MERN STACK DEVELOPER</h3>
+<h3 align="center">Founder & CEO at Necgy</h3>
 
 - 💬 Ask me about **Software Development, Technology, Startup, Engineering & Leadership**
-- 📫 Reach me at **bsharanyadav@gmail.com**
+- 📫 Reach me at **sharan@necgy.com**
 
 
 ## 🌐 Connect With me
